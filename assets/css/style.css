@@ -82,3 +82,41 @@ footer {
     width: 90%;
   }
 }
+
+/* decal proofs */
+#decals {
+  height: auto;
+  padding: 40px 0;
+}
+
+#decals h1 {
+  text-align: center;
+}
+
+#decals img {
+  height: 25rem;
+  width: 100%;
+}
+
+#container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.decal {
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  padding: 20px;
+  margin: 10px;
+  width: 40rem;
+  display: inline-block;
+}
+
+.decal h2 {
+  margin: 0;
+  padding: 10px;
+  font-size: 1.6rem;
+  color: #383838;
+}
